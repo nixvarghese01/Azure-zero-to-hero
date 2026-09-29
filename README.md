@@ -1,3 +1,7 @@
+> **📌 Notes from Nixon Varghese**
+> Forked from [iam-veeramalla/Azure-zero-to-hero](https://github.com/iam-veeramalla/Azure-zero-to-hero) as a reference for **Azure services end to end**. Quick refresher material alongside my AZ-104 and AZ-400 certifications.
+> All credit for the content goes to the original authors.
+
 # Azure Zero to Hero Course
 
 ![Add a heading(13)](https://github.com/iam-veeramalla/Azure-zero-to-hero/assets/43399466/c64cb363-661d-4411-8a30-9cb55255ba30)
